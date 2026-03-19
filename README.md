@@ -1,21 +1,21 @@
-# ARIENT LLUPI
+# Arient Llupi
 ### Mid-Level .NET Software Developer
 
-ðŸ“ Fier, Albania &nbsp;|&nbsp; ðŸŒ Open to Remote Work
+**Location:** Fier, Albania &nbsp;|&nbsp; Open to Remote Work
 
-ðŸ“ž +355 69 479 6007 &nbsp;â€¢&nbsp; ðŸ“§ [arientllupi@gmail.com](mailto:arientllupi@gmail.com) &nbsp;â€¢&nbsp; ðŸ”— [github.com/Arienti](https://github.com/Arienti)
+**Phone:** +355 69 479 6007 &nbsp;|&nbsp; **Email:** [arientllupi@gmail.com](mailto:arientllupi@gmail.com) &nbsp;|&nbsp; **GitHub:** [github.com/Arienti](https://github.com/Arienti)
 
-ðŸ—£ï¸ **Languages:** Albanian (Native) â€¢ English (Professional) â€¢ Spanish (Conversational) â€¢ Italian (Basic)
+**Languages:** Albanian (Native) &nbsp;|&nbsp; English (Professional) &nbsp;|&nbsp; Spanish (Conversational) &nbsp;|&nbsp; Italian (Basic)
 
 ---
 
-## ðŸ‘¨â€ðŸ’» Professional Summary
+## Professional Summary
 
 Mid-level .NET developer specializing in WPF desktop applications and backend/API development. Experienced building production systems using C#, .NET, SQL Server, and REST APIs. Skilled in MVVM architecture, database design, and full software lifecycle delivery. Comfortable working independently in remote environments.
 
 ---
 
-## ðŸ› ï¸ Technical Stack
+## Technical Stack
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -28,11 +28,11 @@ Mid-level .NET developer specializing in WPF desktop applications and backend/AP
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 
-**C#** â€¢ **.NET / .NET Core / .NET 6+** â€¢ **WPF (MVVM)** â€¢ **ASP.NET Core** â€¢ **Entity Framework** â€¢ **SQL Server** â€¢ **Database Design** â€¢ **LINQ** â€¢ **Async Programming** â€¢ **REST APIs** â€¢ **Git/GitHub** â€¢ **Visual Studio**
+**C#** &nbsp;â€¢&nbsp; **.NET / .NET Core / .NET 6+** &nbsp;â€¢&nbsp; **WPF (MVVM)** &nbsp;â€¢&nbsp; **ASP.NET Core** &nbsp;â€¢&nbsp; **Entity Framework** &nbsp;â€¢&nbsp; **SQL Server** &nbsp;â€¢&nbsp; **Database Design** &nbsp;â€¢&nbsp; **LINQ** &nbsp;â€¢&nbsp; **Async Programming** &nbsp;â€¢&nbsp; **REST APIs** &nbsp;â€¢&nbsp; **Git/GitHub** &nbsp;â€¢&nbsp; **Visual Studio**
 
 ---
 
-## ðŸ’¼ Professional Experience
+## Professional Experience
 
 ### Freelance Software Developer &nbsp;|&nbsp; Jan 2024 â€“ Present
 
@@ -43,10 +43,10 @@ Mid-level .NET developer specializing in WPF desktop applications and backend/AP
 
 ---
 
-## ðŸš€ Projects
+## Projects
 
-### ðŸ—‚ï¸ CAManager â€” Customer Management System
-**Tech:** .NET Core Â· WPF Â· MVVM Â· SQL Server Â· Entity Framework
+### CAManager Customer Management System
+**Tech:** .NET Core &nbsp;Â·&nbsp; WPF &nbsp;Â·&nbsp; MVVM &nbsp;Â·&nbsp; SQL Server &nbsp;Â·&nbsp; Entity Framework
 
 - Developed a complete desktop platform for small business management
 - Designed relational database schema and optimized SQL queries
@@ -55,8 +55,8 @@ Mid-level .NET developer specializing in WPF desktop applications and backend/AP
 
 ---
 
-### ðŸŒ¿ Owlos â€” Open Source Contribution
-**Tech:** C# Â· WPF
+### Owlos Open Source Contribution
+**Tech:** C# &nbsp;Â·&nbsp; WPF
 
 - Contributed bug fixes and feature improvements
 - Improved UI behavior and application stability
@@ -64,25 +64,19 @@ Mid-level .NET developer specializing in WPF desktop applications and backend/AP
 
 ---
 
-## ðŸŽ“ Education
+## Education
 
-ðŸ« **High School Diploma**
+**High School Diploma**
 
-ðŸ“š **Professional Software Development Training (Mentorship Program)** â€” 2020 â€“ Present
+**Professional Software Development Training (Mentorship Program)** â€” 2020 â€“ Present
 - Mentored in software engineering principles and modern .NET development
 - Specialized in WPF, MVVM architecture, API development, and database-driven applications
 - Continuous self-directed learning and practical project development
 
 ---
 
-## ðŸ“Š GitHub Stats
-
-![Arient's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arienti&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arienti&layout=compact&theme=default&hide_border=true)
-
----
-
 <p align="center">
-  <i>Open to freelance and remote opportunities. Feel free to reach out!</i><br><br>
-  <a href="mailto:arientllupi@gmail.com">ðŸ“§ arientllupi@gmail.com</a>
+  <i>Open to freelance and remote opportunities â€” feel free to reach out!</i>
+  <br><br>
+  <a href="mailto:arientllupi@gmail.com">arientllupi@gmail.com</a>
 </p>
