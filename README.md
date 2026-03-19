@@ -28,13 +28,13 @@ Mid-level .NET developer specializing in WPF desktop applications and backend/AP
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 
-**C#** &nbsp;â€¢&nbsp; **.NET / .NET Core / .NET 6+** &nbsp;â€¢&nbsp; **WPF (MVVM)** &nbsp;â€¢&nbsp; **ASP.NET Core** &nbsp;â€¢&nbsp; **Entity Framework** &nbsp;â€¢&nbsp; **SQL Server** &nbsp;â€¢&nbsp; **Database Design** &nbsp;â€¢&nbsp; **LINQ** &nbsp;â€¢&nbsp; **Async Programming** &nbsp;â€¢&nbsp; **REST APIs** &nbsp;â€¢&nbsp; **Git/GitHub** &nbsp;â€¢&nbsp; **Visual Studio**
+**C#** &nbsp;•&nbsp; **.NET / .NET Core / .NET 6+** &nbsp;•&nbsp; **WPF (MVVM)** &nbsp;•&nbsp; **ASP.NET Core** &nbsp;•&nbsp; **Entity Framework** &nbsp;•&nbsp; **SQL Server** &nbsp;•&nbsp; **Database Design** &nbsp;•&nbsp; **LINQ** &nbsp;•&nbsp; **Async Programming** &nbsp;•&nbsp; **REST APIs** &nbsp;•&nbsp; **Git/GitHub** &nbsp;•&nbsp; **Visual Studio**
 
 ---
 
 ## Professional Experience
 
-### Freelance Software Developer &nbsp;|&nbsp; Jan 2024 â€“ Present
+### Freelance Software Developer &nbsp;|&nbsp; Jan 2020-Present
 
 - Developed desktop applications using .NET and WPF to automate business workflows
 - Built data-driven systems using SQL Server and Entity Framework
@@ -46,7 +46,7 @@ Mid-level .NET developer specializing in WPF desktop applications and backend/AP
 ## Projects
 
 ### CAManager Customer Management System
-**Tech:** .NET Core &nbsp;Â·&nbsp; WPF &nbsp;Â·&nbsp; MVVM &nbsp;Â·&nbsp; SQL Server &nbsp;Â·&nbsp; Entity Framework
+**Tech:** .NET Core &nbsp;·&nbsp; WPF &nbsp;·&nbsp; MVVM &nbsp;·&nbsp; SQL Server &nbsp;·&nbsp; Entity Framework
 
 - Developed a complete desktop platform for small business management
 - Designed relational database schema and optimized SQL queries
@@ -56,7 +56,7 @@ Mid-level .NET developer specializing in WPF desktop applications and backend/AP
 ---
 
 ### Owlos Open Source Contribution
-**Tech:** C# &nbsp;Â·&nbsp; WPF
+**Tech:** C# &nbsp;·&nbsp; WPF
 
 - Contributed bug fixes and feature improvements
 - Improved UI behavior and application stability
@@ -68,7 +68,7 @@ Mid-level .NET developer specializing in WPF desktop applications and backend/AP
 
 **High School Diploma**
 
-**Professional Software Development Training (Mentorship Program)** â€” 2020 â€“ Present
+**Professional Software Development Training (Mentorship Program)** 2020 - Present
 - Mentored in software engineering principles and modern .NET development
 - Specialized in WPF, MVVM architecture, API development, and database-driven applications
 - Continuous self-directed learning and practical project development
@@ -76,7 +76,7 @@ Mid-level .NET developer specializing in WPF desktop applications and backend/AP
 ---
 
 <p align="center">
-  <i>Open to freelance and remote opportunities â€” feel free to reach out!</i>
+  <i>Open to freelance and remote opportunities feel free to reach out!</i>
   <br><br>
   <a href="mailto:arientllupi@gmail.com">arientllupi@gmail.com</a>
 </p>
