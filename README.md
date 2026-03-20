@@ -3,8 +3,12 @@
 
 **Location:** Fier, Albania &nbsp;|&nbsp; Open to Remote Work
 
- **Phone:** +355 69 479 6007
-**Email:** [arientllupi@gmail.com](mailto:arientllupi@gmail.com) &nbsp;|&nbsp; **GitHub:** [github.com/Arienti](https://github.com/Arienti) &nbsp;|&nbsp; **LinkedIn:** https://www.linkedin.com/in/arient-llupi-0348a134a
+ <table>
+  <tr><td><strong>Phone</strong></td><td>+355 69 479 6007</td></tr>
+  <tr><td><strong>Email</strong></td><td><a href="mailto:arientllupi@gmail.com">arientllupi@gmail.com</a></td></tr>
+  <tr><td><strong>GitHub</strong></td><td><a href="https://github.com/Arienti">github.com/Arienti</a></td></tr>
+  <tr><td><strong>LinkedIn</strong></td><td><a href="https://www.linkedin.com/in/arient-llupi-0348a134a">linkedin.com/in/arient-llupi-0348a134a</a></td></tr>
+</table>
 
 **Languages:** Albanian (Native) &nbsp;|&nbsp; English (Professional) &nbsp;|&nbsp; Spanish (Conversational) &nbsp;|&nbsp; Italian (Basic)
 
